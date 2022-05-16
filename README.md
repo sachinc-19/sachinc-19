@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, everyone! <img src="https://github.com/Anishde85/Anishde85/blob/main/Hi.gif" width="30px"></h2>
+<img align='right' src='https://github.com/Anishde85/Anishde85/blob/main/techstack.gif' width='200"'>
 
-<!--
-**sachinc-19/sachinc-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Anishde85?label=Follow&style=social)](https://github.com/Anishde85/?tab=followers)
+[![Mail Badge](https://img.shields.io/badge/-anishde85@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:anishde85@gmail.com)](mailto:anishde85@gmail.com)
 
-Here are some ideas to get you started:
+**I am Sachin Chaudhary 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Technology, [IET LUCKNOW]. I am interested in competitve coding , web development.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧐 About Me:
+- 📫 &nbsp; Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/sachin-chaudhary-31a467212/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1A5IMoLOMH4h_ouGQGHQIpN97xY27xbCf/view?usp=sharing)
+
+## ⚡ I'm a
+- Competitive Programmer using **C++**
+- Backend developer using **NodeJS , Express, MongoDB**
+- Front-end developer using **HTML, Javascript , CSS , ReactJs**
+
+## My Profiles
+- [Codeforces](https://www.codeforces.com/profile/Sachinc)
+- [CodeChef](https://www.codechef.com/users/sachinc_19)
+- [LeetCode](https://leetcode.com/sachin_chaudhary/)
+
+<img alt="sachinc-19's github stats" src="https://github-readme-stats.vercel.app/api?username=sachinc-19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
