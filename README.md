@@ -2,7 +2,7 @@
 <img align='right' src='https://github.com/Anishde85/Anishde85/blob/main/techstack.gif' width='200"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/sachinc-19?label=Follow&style=social)](https://github.com/sachinc-19/?tab=followers)
-[![Mail Badge](https://img.shields.io/badge/-sachin.btech.iet@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:sachin.sddn@gmail.com)](mailto:sachin.btech.iet@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-sachin.btech.iet@gmail.com-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:sachin.sddn@gmail.com)](mailto:sachin.sddn@gmail.com)
 
 **I am Sachin Chaudhary 😃. I am currently a Pre-Final year student at Dept. of Computer Science and Technology, [IET LUCKNOW](https://www.ietlucknow.ac.in/). I am interested in competitve coding , web development.**
 
