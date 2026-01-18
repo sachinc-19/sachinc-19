@@ -15,7 +15,7 @@
 - Database & cloud **Oracle, MongoDB, CI/CD**
 
 ## My Profiles
-- [Codeforces](https://www.codeforces.com/profile/Sachinc)
+- [Codeforces](https://www.codeforces.com/profile/So2c)
 - [CodeChef](https://www.codechef.com/users/sachinc_19)
 - [LeetCode](https://leetcode.com/sachin_chaudhary/)
 
