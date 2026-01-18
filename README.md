@@ -19,4 +19,3 @@
 - [CodeChef](https://www.codechef.com/users/sachinc_19)
 - [LeetCode](https://leetcode.com/sachin_chaudhary/)
 
-<img alt="sachinc-19's github stats" src="https://github-readme-stats.vercel.app/api?username=sachinc-19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
