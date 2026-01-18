@@ -12,8 +12,8 @@
 
 ## ⚡ I'm a
 - Competitive Programmer using **C++**
-- Backend developer using **NodeJS , Express, MongoDB**
-- Front-end developer using **HTML, Javascript , CSS , ReactJs**
+- Backend developer using **Java , Springboot, JPA, Microservices, RESTful APIs, JSON, Kafka, Git, Postman**
+- Database & cloud **Oracle, MongoDB, CI/CD**
 
 ## My Profiles
 - [Codeforces](https://www.codeforces.com/profile/Sachinc)
